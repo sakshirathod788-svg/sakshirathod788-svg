@@ -1,26 +1,18 @@
-
-<!-- ===================================================== -->
-<!--                  SAKSHI RATHOD                       -->
-<!--              GitHub Profile README                   -->
-<!-- ===================================================== -->
-
 <div align="center">
 
-<!-- 🌈 ANIMATED BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=SAKSHI%20RATHOD&fontSize=55&fontColor=ffffff&fontAlignY=38&animation=fadeIn&color=0:ff4f9a,50:a970ff,100:61dafb" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=SAKSHI%20RATHOD&fontSize=55&fontColor=F0F3F6&fontAlignY=38&animation=fadeIn&color=0:0B1220,50:172554,100:0F172A" width="100%"/>
 
-<!-- ✨ ANIMATED TYPING -->
+<br>
+
 <a href="https://github.com/sakshirathod788-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=FF4F9A&center=true&vCenter=true&multiline=true&width=750&height=90&lines=Computer+Science+Student+%7C+Web+Developer;AI%2FML+Explorer+%7C+Creative+Builder;Building+Ideas+into+Digital+Experiences+%E2%9C%A8" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=7DD3FC&center=true&vCenter=true&multiline=true&width=750&height=80&lines=Computer+Science+Student+%7C+Web+Developer;AI%2FML+Explorer+%7C+Creative+Builder;Turning+Ideas+into+Digital+Experiences+%E2%9C%A6"/>
 </a>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=sakshirathod788-svg&label=PROFILE%20VIEWS&color=ff4f9a&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=sakshirathod788-svg&label=PROFILE%20VIEWS&color=0EA5E9&style=for-the-badge"/>
 
 </div>
-
----
 
 ## 🩷 `01` — ABOUT ME
 
