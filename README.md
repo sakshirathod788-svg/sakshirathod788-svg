@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="banner.svg" alt="Sakshi Rathod — Computer Science • Web • AI/ML" width="100%"/>
+![Sakshi Rathod Banner](./banner.svg)
+
 
 </div>
 
